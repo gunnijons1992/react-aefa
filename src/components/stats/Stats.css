@@ -1,0 +1,13 @@
+.Stats-flex  {
+  display:inline-flex;
+  justify-content:space-around;
+  height: 500px;
+  width: 800px;
+  padding: 20px;
+  padding-top: 0;
+}
+
+.Stats-Satoshi  {
+
+
+}
